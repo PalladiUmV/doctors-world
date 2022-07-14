@@ -4,9 +4,6 @@ import MainPage from '../components/mainPage/MainPage'
 const Index = () => {
 
 
-
-
-
   return (
     <>
       <Head>
